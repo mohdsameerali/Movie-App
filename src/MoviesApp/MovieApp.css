@@ -1,0 +1,74 @@
+.box input{
+    display: block;
+    
+   
+}
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top:20px ;
+
+
+}
+#maincon{
+    padding-top:10px ;
+    border: 2px solid rgb(239, 236, 242);
+    background-color: black;
+    
+
+}
+#maincon h1{
+text-align: center;
+
+color: white;
+}
+.bigcon{
+    height: 100%;
+    border:  2px solid rgb(198, 189, 189);
+    background-color: rgb(161, 22, 177);
+}
+/* <------------------------------card------------------------------ */
+col-2{
+    text-align: center;
+}
+.col-2 img{
+width: 240px;
+height: 250px;
+}
+
+.col-2 .title{
+    font-weight: bold;
+    color: aqua;
+}
+.col-2 .year{
+    font-weight: bold;
+    color: rgb(139, 234, 150);
+}
+h3{
+    color: azure;
+}
+/* <-----------------------home------------------ */
+
+#homecon{
+height: 500px;
+}
+
+.homeBox{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+#homeimg{
+    height: 200px;
+    width: 200px;
+    background-color: blanchedalmond;
+}
+
+.col-4{
+    border: 3px solid white;
+    height: 200px;
+}
